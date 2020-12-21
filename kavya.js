@@ -1,5 +1,5 @@
 class box{
-    constructor(){
+    constructor(x,y,width,height){
 
     }
     display(){
